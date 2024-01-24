@@ -1,4 +1,4 @@
-import FeatureImage from "../assets/Feature Image.png"
+import FeatureImage from "../assets/Feature_Image.png"
 
 function Posibility() {
   return (

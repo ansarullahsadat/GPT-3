@@ -1,8 +1,8 @@
-import Blog01 from "../assets/Rectangle 22-4.png"
-import Blog02 from "../assets/Rectangle 22.png"
-import Blog03 from "../assets/Rectangle 22-2.png"
-import Blog04 from "../assets/Rectangle 22-1.png"
-import Blog05 from "../assets/Rectangle 22-3.png"
+import Blog01 from "../assets/Rectangle_22-4.png"
+import Blog02 from "../assets/Rectangle_22.png"
+import Blog03 from "../assets/Rectangle_22-2.png"
+import Blog04 from "../assets/Rectangle_22-1.png"
+import Blog05 from "../assets/Rectangle_22-3.png"
 
 function Blog() {
   return (

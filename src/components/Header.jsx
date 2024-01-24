@@ -1,8 +1,8 @@
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 import Logo from "../assets/GPT-3.png"
-import Ilstration from "../assets/Header illustration.png"
-import GroupImage from "../assets/Group 81.png"
+import Ilstration from "../assets/Header_illustration.png"
+import GroupImage from "../assets/Group_81.png"
 import { useState } from "react"
 
 function Header() {
