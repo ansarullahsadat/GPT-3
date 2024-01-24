@@ -1,7 +1,7 @@
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 import Logo from "../assets/GPT-3.png"
-// import Ilstration from "../assets/Header_illustration.png"
+import Ilstration from "../assets/illustration.png"
 import GroupImage from "../assets/Group_81.png"
 import { useState } from "react"
 
@@ -136,7 +136,7 @@ function HeroSection() {
       </div>
       <div>
         <img
-          // src={Ilstration}
+          src={Ilstration}
           alt='ilstration'
           className='mx-auto lg:ml-auto w-[24rem]  xl:w-[40rem] h-[24rem] md:h-[30rem] xl:h-[40rem] object-cover'
         />
