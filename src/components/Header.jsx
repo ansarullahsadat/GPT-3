@@ -1,7 +1,7 @@
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri"
 
 import Logo from "../assets/GPT-3.png"
-import Ilstration from "../assets/illustration.png"
+import Ilstration from "../assets/Header_Illustration.png"
 import GroupImage from "../assets/Group_81.png"
 import { useState } from "react"
 
